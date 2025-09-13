@@ -1,0 +1,1 @@
+Move the checkpoint_final.pth here.
