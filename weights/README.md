@@ -1,1 +1,0 @@
-Move the checkpoint_best.pth here.
