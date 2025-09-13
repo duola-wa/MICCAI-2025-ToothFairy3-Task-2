@@ -54,11 +54,11 @@ For more details, please refer to https://github.com/MIC-DKFZ/nnInteractive/tree
 
 Load ToothFairy3 Dataset from https://toothfairy3.grand-challenge.org/dataset/
 
-### 4. Download Pre-trained Model
+### 3. Download Pre-trained Model
 
 Load  Pre-trained Model from https://huggingface.co/nnInteractive/nnInteractive/tree/main
 
-### 5. Inference
+### 4. Inference
 
 Test by nnInteractive. 
 
