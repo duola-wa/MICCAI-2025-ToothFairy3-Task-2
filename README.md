@@ -70,7 +70,7 @@ Test by nnInteractive.
 Run script:
 
 ```
-python nnInteractive-based-method/test_3D.py
+python nnInteractive-based-method/test_nninteractive.py
 ```
 
 
