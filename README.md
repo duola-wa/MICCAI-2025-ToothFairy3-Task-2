@@ -48,6 +48,11 @@ python nnUnet-based-method/test_3D.py
 ## nnInteractive based Model:
 ### 1. nnInteractive Configuration
 Install nnInteractive as below.  
+```
+git clone https://github.com/MIC-DKFZ/nnInteractive
+cd nnInteractive
+pip install -e .
+```
 For more details, please refer to https://github.com/MIC-DKFZ/nnInteractive/tree/master  
 
 ### 2. Dataset
